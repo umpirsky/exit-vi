@@ -1,1 +1,29 @@
-theme: jekyll-theme-hacker
+# Site settings
+title:       How to exit Vi?
+email:       umpirsky@gmail.com
+author:      Saša Stamenković
+description: ""
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+sass:
+  style: compressed
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# https://github.com/jekyll/jekyll/issues/2938
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

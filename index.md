@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
+title: Hello Title
 ---
 
-Heading
-=======
-
-[link](http://umpirsky.com/)
+Hello World!
