@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello Title
+title: How to exit Vi editor?
 ---
 
-Hello World!
+To exit vi editor without saving changes you have made
