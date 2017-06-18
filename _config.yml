@@ -1,8 +1,7 @@
 # Site settings
-title:       How to exit Vi?
-email:       umpirsky@gmail.com
-author:      Saša Stamenković
-description: ""
+title: How to exit Vi?
+author: Saša Stamenković
+description: How to exit Vi?
 
 # Google services
 google_verification:
@@ -12,14 +11,13 @@ google_analytics:
 google_tag_manager:
 
 # Build settings
-markdown:     kramdown
+markdown: kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink: pretty
 sass:
   style: compressed
 gems:
-  - jekyll-paginate
   - jekyll-sitemap
 
 # https://github.com/jekyll/jekyll/issues/2938
