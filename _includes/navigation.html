@@ -1,5 +1,6 @@
-{% for page in site.pages %}
-    {% if page.navigation %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
+{% assign pages = site.pages | sort:"order" %}
+{% for page in pages %}
+    {% if page.order %}
+        <a href="{{ page.url }}">{% if page.label %}{{ page.label }}{% else %}{{ page.title }}{% endif %}</a>
     {% endif %}
 {% endfor %}

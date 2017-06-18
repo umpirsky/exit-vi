@@ -1,6 +1,8 @@
 ---
 layout: page
-title: How to exit Vi editor?
+title: How to exit Vi?
+label: Quit
+order: 1
 ---
 
 To exit vi editor without saving changes you have made:
