@@ -2,6 +2,7 @@
 layout: page
 title: How to save changes in Vi?
 label: Save
+summary: Press Esc, type :w and press Enter.
 order: 0
 ---
 

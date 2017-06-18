@@ -2,6 +2,7 @@
 layout: page
 title: How to exit Vi?
 label: Quit
+summary: Press Esc, type :q! and press Enter.
 order: 1
 ---
 
