@@ -3,7 +3,7 @@ layout: page
 title: How to save changes in Vi?
 label: Save
 summary: Press Esc, type :w and press Enter.
-order: 0
+order: 1
 ---
 
 To save changes you have made in vi editor:

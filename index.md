@@ -3,7 +3,7 @@ layout: page
 title: How to exit Vi?
 label: Quit
 summary: Press Esc, type :q! and press Enter.
-order: 1
+order: 2
 ---
 
 To exit vi editor without saving changes you have made:
