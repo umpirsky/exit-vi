@@ -13,3 +13,5 @@ To exit vi editor without saving changes you have made:
 * Press `Enter`.
 
 This will quit the editor, and all changes you have made to the document will be lost.
+
+If you want to exit and save changes, [follow this steps](/save-and-quit).
