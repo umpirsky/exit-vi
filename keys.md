@@ -3,7 +3,7 @@ layout: page
 title: Keyboard Shortcuts
 label: Shortcuts
 summary: Vi editor keyboard shortcuts.
-order: 0
+order: 2
 permalink: /keyboard-shortcuts
 ---
 
